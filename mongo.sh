@@ -1,1 +1,0 @@
-docker run --name alcapp -p 27017:27017 mongo
