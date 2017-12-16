@@ -1,4 +1,4 @@
-docker pull node : boron
+docker pull node
 
 docker pull mongo
 
